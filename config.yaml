@@ -73,8 +73,8 @@ params:
         - feature: experience
         # - feature: projects
         #   collection: projects
-        - feature: certificates
-          title: Certifications
+        # - feature: certificates
+        #   title: Certifications
   experience:
     tools: 
       show: true
