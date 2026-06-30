@@ -1,6 +1,6 @@
 baseURL: "/"
 languageCode: "en-us"
-title: "Resume - Lucian Palaghe"
+title: "Resume - Alexandra Astileanu"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
 
@@ -71,8 +71,8 @@ params:
         - feature: experience
     - features:
         - feature: experience
-        - feature: projects
-          collection: projects
+        # - feature: projects
+        #   collection: projects
         - feature: certificates
           title: Certifications
   experience:
