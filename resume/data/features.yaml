@@ -1,0 +1,46 @@
+about:
+  name: Alexandra Astileanu
+  tagline: Developer
+  phone: "+40 722 844 819"
+  email: alexandra.astileanu@gmail.com
+  links:
+    - title: /in/alexandra.astileanu
+      url: https://linkedin.com/in/alexandra.astileanu
+      icon: fab fa-linkedin
+    - title: astileanua1141
+      url: https://github.com/astileanua1141
+      icon: fab fa-github
+  details: |
+    Software developer with experience working in a variety of technical environments.
+    Skilled in Software Development, Java and its vast ecosystem including the Spring framework, as well as other programming languages, with an emphasis on clean code practices.
+    TO DO
+
+skills:
+  - groupName: Programming Languages and Frameworks
+    list:
+      - Java
+      - Spring & Spring Boot
+      - JavaScript
+      - Typescript
+      - Node.js
+
+  - groupName: Databases
+    list:
+      - Oracle
+      - MongoDB
+      - DB2
+      - SQLite
+
+  - groupName: CI/CD
+    list:
+      - Docker Containers
+      - Kubernetes
+      - Git
+
+languages:
+  - name: English
+    level: Professional
+
+  - name: Romanian
+    level: Native
+

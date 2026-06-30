@@ -1,0 +1,10 @@
+- company: Accesa
+  roles:
+    - role: Java Developer - banking industry
+      tools: Spring Boot based microservices deployed in OpenShift, API driven development, Hibernate, Oracle Database, OpenAPI, Maven, Jenkins
+      details: |
+        * worked on developing a customer facing application used to asses customer sentiment, relative to certain financial institution initiatives
+        * worked on developing an in-bank property evaluation application
+      date: Spetember 2015 - May 2018
+
+
